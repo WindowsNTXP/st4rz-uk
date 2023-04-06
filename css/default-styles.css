@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&Ubuntu:wght@300&display=swap');
 
 html {
     background-color: #252330;
     color: #efefef;
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 .link {
@@ -11,5 +12,5 @@ html {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Inter', sans-serif;
 }
